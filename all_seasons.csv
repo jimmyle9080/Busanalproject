@@ -1,3 +1,4 @@
+,player_name,team_abbreviation,age,player_height,player_weight,college,country,draft_year,draft_round,draft_number,gp,pts,reb,ast,net_rating,oreb_pct,dreb_pct,usg_pct,ts_pct,ast_pct,season
 1,Jason Hart,MIL,23,187.96,82.10015200000001,Syracuse,USA,2000,2,49,1,2,0,1,-7.3,0,0,0.126,1,0.25,2000-01
 2,Jason Collier,HOU,23,213.36,117.93392,Georgia Tech,USA,2000,1,15,23,3.1,1.6,0.3,-12.5,0.059000000000000004,0.16,0.19399999999999998,0.435,0.05,2000-01
 3,Jerome Moiso,BOS,23,208.28,105.23334399999999,UCLA,France,2000,1,11,24,1.5,1.8,0.1,-2.2,0.091,0.273,0.187,0.42200000000000004,0.043,2000-01
